@@ -1,5 +1,5 @@
 /**
- * An error I faced and how I corrected it. dog
+ * An error I faced and how I corrected it.
  * 
  * An error that occurred as I was creating this program involved problems with
  * generating unique IDs for the parts stored within the inventory. I first
